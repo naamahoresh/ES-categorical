@@ -1,0 +1,17 @@
+suite = 'PBO', funcId = 1, DIM = 25, algId = 'Ising1D_HLT_0', algInfo = 'WithOut Surrogate'
+% 
+data_f2/IOHprofiler_f2_DIM25_i1.dat, 1:2100|42.0suite = 'PBO', funcId = 1, DIM = 25, algId = 'Ising1D_ES', algInfo = 'WithOut Surrogate'
+% 
+data_f1/IOHprofiler_f1_DIM25_i1.dat, 1:2100|42.0suite = 'PBO', funcId = 1, DIM = 25, algId = 'Ising1D_HLT_0', algInfo = 'WithOut Surrogate'
+% 
+data_f2/IOHprofiler_f2_DIM25_i1.dat, 1:2100|42.0suite = 'PBO', funcId = 1, DIM = 25, algId = 'Ising1D_ES', algInfo = 'WithOut Surrogate'
+% 
+data_f1/IOHprofiler_f1_DIM25_i1.dat, 1:2100|42.0suite = 'PBO', funcId = 1, DIM = 64, algId = 'Ising1D_HLT_0', algInfo = 'WithOut Surrogate'
+% 
+data_f2/IOHprofiler_f2_DIM64_i1.dat, 1:2100|100.0suite = 'PBO', funcId = 1, DIM = 64, algId = 'Ising1D_ES', algInfo = 'WithOut Surrogate'
+% 
+data_f1/IOHprofiler_f1_DIM64_i1.dat, 1:2100|100.0suite = 'PBO', funcId = 1, DIM = 64, algId = 'Ising1D_HLT_0', algInfo = 'WithOut Surrogate'
+% 
+data_f2/IOHprofiler_f2_DIM64_i1.dat, 1:2100|92.0suite = 'PBO', funcId = 1, DIM = 64, algId = 'Ising1D_ES', algInfo = 'WithOut Surrogate'
+% 
+data_f1/IOHprofiler_f1_DIM64_i1.dat, 1:2100|100.0
